@@ -1,4 +1,12 @@
  # K-Means Clustering 
+ 
+## Libraries Used
+
+* **NumPy:** For numerical operations.
+* **Pandas:** For data manipulation and analysis (using DataFrames).
+* **Seaborn:** For data visualization.
+* **Matplotlib.pyplot:** For plotting.
+* **Scikit-learn:** For K-Means clustering and silhouette score calculation.
 
 ## Data Preprocessing
 
